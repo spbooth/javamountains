@@ -1,4 +1,4 @@
-:<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.5+" codebase="https://spbooth.github.io/javamountains"
       href="javamountains.jnlp">
 <information>
