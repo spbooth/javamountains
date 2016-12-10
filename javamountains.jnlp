@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.5+" codebase="http://www2.epcc.ed.ac.uk/~spb/javamountains"
+      href="javamountains.jnlp">
+<information>
+  <title>Javamountains</title>
+</information>
+<security>
+</security>
+<resources>
+  <java version="1.5+"/>
+  <jar href="javamountains.jar"/>
+</resources>
+<applet-desc main-class="mountapp" name="mountapp" 
+  width="512"
+  height="384" >
+<PARAM NAME=levels VALUE="9"/>
+<PARAM NAME=sleep VALUE="1000"/>
+</applet-desc>
+</jnlp>
