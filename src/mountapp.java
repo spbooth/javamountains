@@ -25,7 +25,7 @@ public class mountapp extends Applet implements Runnable,MouseListener
   public final String pinfo[][]={
     {"levels", "1+", "levels of recursion (depth)"},
     {"stop", "1-Levels", "number of non fractal recusions"},
-    {"fdim", "0.5-1.0", "Fractal dimansion"},
+    {"fdim", "0.5-1.0", "Fractal dimension"},
     {"sleep", "miliseconds", "Sleep time before scrolling"},
     {"snooze", "miliseconds", "Sleep time between columns"}
   };
